@@ -1,4 +1,4 @@
-![iosprework](https://github.com/suhmir/codepathprewrk/assets/111587247/080d70db-e67a-445f-ad70-02e8de508dff)App Description:
+-=-0![iosprework](https://github.com/suhmir/codepathprewrk/assets/111587247/080d70db-e67a-445f-ad70-02e8de508dff)App Description:
 This app is a simple app in swift. It introduces an individual. If you click on the button that is seen on the lower half of the screen, the background will change its color.
 
 App Walk-though:
@@ -10,7 +10,8 @@ Required User Stories
  3. User can tap a button to change the background color of the label.
 
 
-App Brainstorming: [Uploading iosprework.gif…]()
+App Brainstorming: ![Kapture 2023-08-27 at 22 16 31](https://github.com/suhmir/codepathprewrk/assets/111587247/b554ffc5-e94d-48d3-8006-6b47c946d1a5)
+
 
 
 
