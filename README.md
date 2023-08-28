@@ -1,4 +1,4 @@
--=-0![iosprework](https://github.com/suhmir/codepathprewrk/assets/111587247/080d70db-e67a-445f-ad70-02e8de508dff)App Description:
+App Description:
 This app is a simple app in swift. It introduces an individual. If you click on the button that is seen on the lower half of the screen, the background will change its color.
 
 App Walk-though:
