@@ -10,7 +10,8 @@ Required User Stories
  3. User can tap a button to change the background color of the label.
 
 
-App Brainstorming: ![Kapture 2023-08-27 at 22 16 31](https://github.com/suhmir/codepathprewrk/assets/111587247/b554ffc5-e94d-48d3-8006-6b47c946d1a5)
+App Brainstorming: ![iosgif](https://github.com/suhmir/codepathprewrk/assets/111587247/06f1aaa3-afd7-429c-b25d-764ecf37e8a7)
+
 
 
 
