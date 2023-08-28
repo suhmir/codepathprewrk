@@ -1,6 +1,17 @@
-# codepathprewrk
-Codepath Prework Project
-App Brainstorming. 
+App Description:
+This app is a simple app in swift. It introduces an individual. If you click on the button that is seen on the lower half of the screen, the background will change its color.
+
+App Walk-though:
+
+
+Required User Stories
+ 1. User sees custom text in a label - Hello from {name}!
+ 2. User see's custom background color.
+ 3. User can tap a button to change the background color of the label.
+
+
+App Brainstorming: ![Uploading Kapture 2023-08-27 at 22.16.31.gif…]()
+
 
 Instagram 
 - able to send messages and make posts
@@ -14,6 +25,5 @@ Deleting old messages
 Youtube
 - Able to watch videos and comment
 - Has a great algorithm for recommending videos. 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
 
 An app that I would like to build would be an app relating to health. I would want it to be multi-purpose app. For example, the app would allow users to track calories consumed and track fitness ( steps taken per day). So it would be like a health sort of app that's on our iPhones. The features would allow users to track what they put inside their bodies and stay within their goal of how many calories to consume. It would also feature a way for them to track their health but running/walking.
